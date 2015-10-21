@@ -1,1 +1,1 @@
-Checking to see if I can push.
+The dist folder (Live site) of adamtmiddleton.com.
